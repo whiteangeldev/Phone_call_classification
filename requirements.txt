@@ -1,0 +1,8 @@
+tabulate
+soundfile
+torch
+torchaudio
+packaging
+scipy
+openai-whisper
+librosa
